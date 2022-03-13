@@ -1,0 +1,13 @@
+C:\Users\TOSHIBA\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\bin\Debug\netcoreapp3.1\String, StringBuilder, Array.exe
+C:\Users\TOSHIBA\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\bin\Debug\netcoreapp3.1\String, StringBuilder, Array.deps.json
+C:\Users\TOSHIBA\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\bin\Debug\netcoreapp3.1\String, StringBuilder, Array.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\bin\Debug\netcoreapp3.1\String, StringBuilder, Array.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\bin\Debug\netcoreapp3.1\String, StringBuilder, Array.dll
+C:\Users\TOSHIBA\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\bin\Debug\netcoreapp3.1\String, StringBuilder, Array.pdb
+C:\Users\TOSHIBA\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\obj\Debug\netcoreapp3.1\String, StringBuilder, Array.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\obj\Debug\netcoreapp3.1\String, StringBuilder, Array.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\obj\Debug\netcoreapp3.1\String, StringBuilder, Array.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\obj\Debug\netcoreapp3.1\String, StringBuilder, Array.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\obj\Debug\netcoreapp3.1\String, StringBuilder, Array.dll
+C:\Users\TOSHIBA\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\obj\Debug\netcoreapp3.1\String, StringBuilder, Array.pdb
+C:\Users\TOSHIBA\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\obj\Debug\netcoreapp3.1\String, StringBuilder, Array.genruntimeconfig.cache

@@ -16,30 +16,35 @@ namespace String__StringBuilder__Array
 
         public void ShowInfo()
         {
-            Console.WriteLine($"{color};{year};{Brand};{Model};{FuelCapacity};{FuelFor1Km};{CurrentFuel}" );
+            Console.WriteLine($"Color:{color},Year:{year},Brand:{Brand},Model:{Model},FuelCapacity:{FuelCapacity},FuelFor1km:{FuelFor1Km},CurrentFuel:{CurrentFuel}" );
             
 
         }
         public void Drive()
         {
-            double Carkm = 5;
-           
-            if (Carkm*FuelFor1Km < CurrentFuel)
+            double Carkm;
+            double Outcome;
+
+            Console.Write("How many kilometers will it take?:");
+            Carkm = Convert.ToInt32(Console.ReadLine());
+            Outcome = CurrentFuel - (Carkm * FuelFor1Km);
+
+            if (Outcome>0)
             {
-                Console.WriteLine($"Carlitr:{CurrentFuel - (Carkm * FuelFor1Km)}");
+                Console.WriteLine($"Remaining in the fuel:{Outcome}");
+            }
+            else
+            {
+                Console.WriteLine("please refuel");
             }
             
-            else 
-            { 
-                Console.WriteLine("gasoline is low");
-            }
 
 
-           
 
-        
 
-           
+
+
+
         }
         
     

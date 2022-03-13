@@ -11,7 +11,7 @@ namespace String__StringBuilder__Array
         public double FuelCapacity;
         public double FuelFor1Km;
         public double CurrentFuel;
-        //public double Carkm;
+      
 
 
         public void ShowInfo()
@@ -22,16 +22,15 @@ namespace String__StringBuilder__Array
         }
         public void Drive()
         {
-            int Carkm = 5;
+            double Carkm = 5;
            
-            if (Carkm < CurrentFuel)
+            if (Carkm*FuelFor1Km < CurrentFuel)
             {
                 Console.WriteLine($"Carlitr:{CurrentFuel - (Carkm * FuelFor1Km)}");
             }
             
             else 
-            {
-                
+            { 
                 Console.WriteLine("gasoline is low");
             }
 

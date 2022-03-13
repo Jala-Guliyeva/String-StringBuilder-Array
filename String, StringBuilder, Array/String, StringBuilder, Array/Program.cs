@@ -15,7 +15,6 @@ namespace String__StringBuilder__Array
             info.FuelCapacity = 13.7;
             info.FuelFor1Km =3.1;
             info.CurrentFuel =20;
-            //info.Carkm = 5;
             info.ShowInfo();
             info.Drive();
 
